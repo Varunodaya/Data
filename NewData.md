@@ -16,11 +16,11 @@
 
 ==============================================================
 
-<H1>rnorm(10)<H1>
+<H3>rnorm(10)</H3>
 
 <li>returns 10 random values whoes mean is 0 and standard deviation is 1 </li>
 
-<H1>rnorm(10, mean=3 , sd=0.5 )<H1>
+<H3>rnorm(10, mean=3 , sd=0.5 )</H3>
 
 <li>returns 10 random values whoes mean is 3 and standard deviation is 0.5</li>
 
