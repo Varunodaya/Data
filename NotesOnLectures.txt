@@ -1,4 +1,0 @@
->cd
->ls -ltr
->pwd
->git init
